@@ -13282,11 +13282,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\git_projects\\UA\\CouchBaseCore\\CouchBaseCore.csproj",
+      "projectUniqueName": "D:\\git_projects\\UA\\UADEMO\\CouchBaseCore\\CouchBaseCore.csproj",
       "projectName": "CouchBaseCore",
-      "projectPath": "D:\\git_projects\\UA\\CouchBaseCore\\CouchBaseCore.csproj",
+      "projectPath": "D:\\git_projects\\UA\\UADEMO\\CouchBaseCore\\CouchBaseCore.csproj",
       "packagesPath": "C:\\Users\\deepakk\\.nuget\\packages\\",
-      "outputPath": "D:\\git_projects\\UA\\CouchBaseCore\\obj\\",
+      "outputPath": "D:\\git_projects\\UA\\UADEMO\\CouchBaseCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
